@@ -4,7 +4,7 @@ I'm...let's go with Mellow haha.  Today I will be showcasing my first ever game.
 
 Space Survival 
 
-This is a Java project that was inspired Attari's Asteroid in the 1980s. This project was an inspiration of this popular drawing from its design and most game mechanics. It responds to keyboard input by the user and only uses the mouse to start and exit the game.
+This is a Java project that was inspired Attari's Asteroid in the 1980s. This project was an inspiration of this popular drawing from its design and most game mechanics. It responds to keyboard input by the user and only uses the mouse to start and exit the game. (See Game Specifications for detailed controls and game insight)
 
 
 Lessons Learned
@@ -12,6 +12,7 @@ Lessons Learned
 Definitely learned alot. Particularl!y I learnt how vast the java.awt.* Library was, which stands for Abstract Window Toolskit. It was responsible for 90% of my project pertaining to game entities like buttons,screen color and mapping user input. Really interesting stuff.
 
 I also came across the whole concept of threading, which is like automation but with less control since the OS dictates how it runs. I utilized this concept in simulating asteroids falling down and thus independent of the player and unrelated game attributes like points. But definitely responsive of game events like collisions (ship object intersecting with asteroid object)
+
 
 Acknowledgements
 
@@ -44,17 +45,6 @@ Now once that is done, you should be good to go. Make sure to run
 Once successful, it should state the layer version and builds.
 
 If you still have issues (https://www.oracle.com/java/technologies/downloads/#jdk21-windows) 
-
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
 
 
 ## Feedback
